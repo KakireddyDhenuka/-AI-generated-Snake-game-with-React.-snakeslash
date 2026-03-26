@@ -1,0 +1,5 @@
+{
+  "name": "SynthSnake",
+  "description": "A retro-futuristic Snake game combined with an AI music player, featuring a dark pink aesthetic.",
+  "requestFramePermissions": []
+}
